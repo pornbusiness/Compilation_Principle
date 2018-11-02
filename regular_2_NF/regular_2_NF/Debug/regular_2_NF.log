@@ -1,0 +1,4 @@
+﻿  main.c
+d:\github-repository\compilation_principle\regular_2_nf\regular_2_nf\nf.h(325): warning C4018: “<”: 有符号/无符号不匹配
+d:\github-repository\compilation_principle\regular_2_nf\regular_2_nf\nf.h(468): warning C4715: “eval”: 不是所有的控件路径都返回值
+  regular_2_NF.vcxproj -> D:\Github-repository\Compilation_Principle\regular_2_NF\Debug\regular_2_NF.exe
